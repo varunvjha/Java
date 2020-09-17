@@ -3,6 +3,11 @@ package Others;
 import java.util.Arrays;
 
 /**
+ * @author Varun Vaibhav Jha
+ *
+ */
+
+/**
  * The two pointer technique is a useful tool to utilize when searching for pairs in a sorted array.
  * <p>
  * link: https://www.geeksforgeeks.org/two-pointers-technique/
